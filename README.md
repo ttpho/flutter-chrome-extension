@@ -1,6 +1,16 @@
 # flutter-chrome-extension
 Build chrome extension by Flutter
 
+### Build
+
+```dart
+flutter build web --web-renderer html --csp
+```
+
+
+### Chrome extensions
+chrome://extensions/
+
 
 ### Source 
 
